@@ -1,0 +1,17 @@
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Excelian.MazeTests.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Excelian.MazeTests.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\obj\Debug\Excelian.MazeTests.csprojResolveAssemblyReference.cache
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\obj\Debug\Excelian.MazeTests.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\obj\Debug\Excelian.MazeTests.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Resources\ExampleMaze.txt
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Excelian.Maze.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.Core.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\NSubstitute.dll
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\Excelian.Maze.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.xml
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.Core.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\FluentAssertions.Core.xml
+D:\Excelian Test\Microsoft\C#\Excelian.MazeTests\bin\Debug\NSubstitute.xml

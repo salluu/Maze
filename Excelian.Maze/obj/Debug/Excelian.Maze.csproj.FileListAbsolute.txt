@@ -1,0 +1,8 @@
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\bin\Debug\Excelian.Maze.dll
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\bin\Debug\Excelian.Maze.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\obj\Debug\Excelian.Maze.dll
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\obj\Debug\Excelian.Maze.pdb
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\bin\Debug\Resources\ExampleMaze.txt
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\obj\Debug\Excelian.Maze.Properties.Resources.resources
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\obj\Debug\Excelian.Maze.csproj.GenerateResource.Cache
+D:\Excelian Test\Microsoft\C#\Excelian.Maze\obj\Debug\Excelian.Maze.csprojResolveAssemblyReference.cache

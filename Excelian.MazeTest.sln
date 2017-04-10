@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excelian.MazeTests", "Excelian.MazeTests\Excelian.MazeTests.csproj", "{CF3C6676-9B58-4359-A39E-4B9C54544B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excelian.MazeRunner", "Excelian.MazeRunner\Excelian.MazeRunner.csproj", "{55AB1EB8-435D-454C-B65F-E6A6EE447AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excelian.Maze", "Excelian.Maze\Excelian.Maze.csproj", "{959E208B-ED1F-4A06-A37A-D3365A4591E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2456FFE4-85FA-44BF-B2A7-06D8C7620D11}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3C6676-9B58-4359-A39E-4B9C54544B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3C6676-9B58-4359-A39E-4B9C54544B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3C6676-9B58-4359-A39E-4B9C54544B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3C6676-9B58-4359-A39E-4B9C54544B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AB1EB8-435D-454C-B65F-E6A6EE447AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AB1EB8-435D-454C-B65F-E6A6EE447AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AB1EB8-435D-454C-B65F-E6A6EE447AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AB1EB8-435D-454C-B65F-E6A6EE447AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959E208B-ED1F-4A06-A37A-D3365A4591E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959E208B-ED1F-4A06-A37A-D3365A4591E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959E208B-ED1F-4A06-A37A-D3365A4591E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959E208B-ED1F-4A06-A37A-D3365A4591E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
